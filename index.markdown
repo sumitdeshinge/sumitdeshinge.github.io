@@ -11,4 +11,4 @@ permalink: /
 | Machine Learning | https://github.com/sumitdeshinge/machinelearning |
 | Ignite | https://github.com/sumitdeshinge/ignite |
 
-**[Linkedin](https://www.linkedin.com/in/sumit-deshinge-b9855a35/)**
+<!---  **[Linkedin](https://www.linkedin.com/in/sumit-deshinge-b9855a35/)** --->
